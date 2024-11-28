@@ -1,7 +1,7 @@
 ########################################
 # File Name: PongGame.py
 # Description: This program is a Pong style game themed around outer space
-# Author: Marcus Ng, Chris Xu, and Herman Huynh
+# Author: Marcus Ng
 # Date: 2022 - 09 - 26
 #########################################
 
